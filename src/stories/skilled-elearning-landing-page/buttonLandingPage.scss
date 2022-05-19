@@ -1,0 +1,22 @@
+button{
+  height:56px;
+width:167px;
+border-radius:28px;
+border:none; 
+font-weight:bold;
+font-size:18px;
+}
+
+button.idle1{
+
+  background-color:#13183F;
+  color:#FFFFFF;
+  margin:2rem;
+}
+
+button.idle1:hover {
+
+  background-color:#666CA3;
+  color:#FFFFFF;
+  margin:2rem;
+}

@@ -1,10 +1,6 @@
-import React from 'react';
+import React from "react";
+import "./buttonLandingPage.scss";
 
 export const buttonLandingPage = () => {
-  return (
-    <div>
-      Get Started
-    </div>
-  );
+  return <button class="idle1">Get Started</button>;
 };
-

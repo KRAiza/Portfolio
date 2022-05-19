@@ -4,7 +4,7 @@ import { buttonLandingPage } from './buttonLandingPage'
 
 export default {
   title: 'Skilled E Learning',
-  component: "buttonLandingPage"
+  component: buttonLandingPage
 }
 
 const Template = (args) => <buttonLandingPage {...args} />;
