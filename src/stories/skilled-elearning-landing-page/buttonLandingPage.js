@@ -1,11 +1,10 @@
 import React from 'react';
 
-const App = () => {
+export const buttonLandingPage = () => {
   return (
     <div>
-      
+      Get Started
     </div>
   );
 };
 
-export default App;
