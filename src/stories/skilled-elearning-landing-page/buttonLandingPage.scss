@@ -7,6 +7,10 @@ font-weight:bold;
 font-size:18px;
 }
 
+button:hover{
+  cursor: pointer;
+}
+
 button.idle1{
 
   background-color:#13183F;
@@ -19,4 +23,5 @@ button.idle1:hover {
   background-color:#666CA3;
   color:#FFFFFF;
   margin:2rem;
+
 }
